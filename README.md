@@ -17,8 +17,7 @@ call_duration_in_minutes
 call_center
  These columns offer facts approximately the purchaser interactions with the call middle, such as details consisting of client name, sentiment, CSAT rating, call timestamp, reason, metropolis, country, channel, reaction time, and contact duration in mins. The dataset covers diverse channels like Call-Center, Chatbot, Email, Web, and different channels like Twitter and textual content messages.
 
-                   -----------------------------------------------------------------------   OUTPUT   ---------------------------------------------------------------------------------
-
-                   ![Query2](https://github.com/kiransindam/SQL--2-DAY-Call_Center-dataset-Clean-and-Analyse-Data.-/assets/101730779/bdd4d0c1-67b2-4aed-8799-ba11857161d7)
+                   -----------------------------------------------------------------------   OUTPUT   --------------------------------------------------------------------------------
+  ![Query2](https://github.com/kiransindam/SQL--2-DAY-Call_Center-dataset-Clean-and-Analyse-Data.-/assets/101730779/0fc26279-9373-4fef-9c7d-41eacbb2846a)
 
 
